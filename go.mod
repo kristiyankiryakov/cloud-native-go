@@ -1,3 +1,5 @@
-module https://github.com/kristiyankiryakov/cloud-native-go
+module github.com/kristiyankiryakov/cloud-native-go
 
 go 1.24.1
+
+require github.com/gorilla/mux v1.8.1
